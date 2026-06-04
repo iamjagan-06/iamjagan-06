@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently building full stack projects with a focus on ML & AI integration.<br>🌱 I'm learning Deep Learning, LLMs, and scalable backend systems.<br>💡 I love turning ideas into real-world applications using Python and modern web tech.<br>🤝 I'm open to collaborating on innovative open-source projects.<br>⚡ Fun fact: I enjoy solving problems at the intersection of software engineering and AI.
+🔭 I'm currently building full stack projects with a focus on AI & ML integration.<br>🌱 I'm learning computer science fundamentals, software tech, AI tools, and scalable backend systems.<br>💡 I love turning ideas into real-world applications using Python and modern web technologies.<br>🤝 I'm open to collaborating on innovative open-source projects.<br>⚡ Fun fact: I enjoy solving problems at the intersection of software engineering and AI.
 
 
 ## 🌐 Socials:
